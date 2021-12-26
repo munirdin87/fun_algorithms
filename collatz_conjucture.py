@@ -46,4 +46,6 @@ def plot_collatz(n):
     return plt.show()
 
 
-plot_collatz(9898)
+
+# test the function for 1 to 100.
+plot_collatz(100)
